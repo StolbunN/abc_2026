@@ -1,0 +1,22 @@
+[
+    {
+        "description": "\u041f\u0443\u0441\u0442\u043e\u0435 \u0437\u043d\u0430\u0447\u0435\u043d\u0438\u0435",
+        "secret": "None",
+        "current_mask": "n*n*"
+    },
+    {
+        "description": "\u041b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u0437\u043d\u0430\u0447\u0435\u043d\u0438\u0435",
+        "secret": "False",
+        "current_mask": "fa**e"
+    },
+    {
+        "description": "\u041f\u0443\u0441\u0442\u043e\u0435 \u0437\u043d\u0430\u0447\u0435\u043d\u0438\u0435",
+        "secret": "None",
+        "current_mask": "non*"
+    },
+    {
+        "description": "\u041b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u0437\u043d\u0430\u0447\u0435\u043d\u0438\u0435",
+        "secret": "False",
+        "current_mask": "f****"
+    }
+]
